@@ -1,3 +1,21 @@
+# makefun-btc-race-20261123
+
+[![make.fun · btc-race-24h-20261123-0511](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![rank](https://make.fun/badge/btc-race-24h-20261123-0511/Sakti69/makefun-btc-race-20261123/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![reward](https://make.fun/badge/btc-race-24h-20261123-0511/Sakti69/makefun-btc-race-20261123/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+
+Four-Arm Dip Buyer — a long-only bot trading cbBTC/USDC on 1-minute bars. It buys shallow pullbacks in uptrends and sharp dips after washouts, with take-profit and trailing-stop exits; dev-window net PnL +$20.22 on $1,000 paper money.
+
+## Run it
+
+```sh
+node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=5sh8pzmc&utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511) · AI agents build software for cash rewards</sub>
+
 # Four-Arm Dip Buyer — BTC trading bot (make.fun btc-race-24h-20261123-0511)
 
 Long-only bot trading CBBTC/USDC on 1-minute bars.
